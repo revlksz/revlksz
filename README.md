@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Resul Evleksiz</h1>
-<h3 align="center">A passionate Backend developer from Türkiye</h3>
+<h3 align="center">A Computer Engineer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Web Application**
-
-- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **resul.evleksiz591@gmail.com**
 
